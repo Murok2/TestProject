@@ -1,5 +1,18 @@
 # TestProject
 
+# LANGUAGE, TOOLS AND ARCHITECTURE PATTERNS
+ IN THIS PROJECT I USED:
+ - Kotlin
+ - MVVM pattern                      
+ - Room Library
+ - GSON Library
+ - Coroutines Library
+ - LiveData
+ - ViewModel
+
+A convenient application for preparing for a theoretical exam on the right. There are 25 tickets with 500 questions for traffic rules 2021 in Kyrgyz Republic 🇰🇬. Here you can test your knowledge, get a detailed explanation for each question from the test, and track your latest results. You can download on your android mobile phone and run this application from "Releases" section of Github 📱🚀.
+
+
 ![msg896394931-405998](https://user-images.githubusercontent.com/49513497/172066127-fa588dcf-cde2-44bd-bbf5-eb3dcab41fd0.jpg)
 ![msg896394931-405999](https://user-images.githubusercontent.com/49513497/172066132-969af20b-10dd-4f3d-9d5f-765d7e95fc55.jpg)
 ![msg896394931-406000](https://user-images.githubusercontent.com/49513497/172066134-d1e36e8d-abaa-4ea2-b26f-c4ca6caa0a1c.jpg)
