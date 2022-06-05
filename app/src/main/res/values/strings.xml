@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Тест ПДД 2021</string>
+    <string name="pdd">ПДД</string>
+    <string name="year">2021</string>
+    <string name="questions_number"><b>25</b> билетов <b>\n500</b> вопросов</string>
+    <string name="question">Вопрос</string>
+    <string name="score">Score: 0</string>
+    <string name="total_questions">Question: 1/?</string>
+    <string name="start">Начать</string>
+    <string name="next">Cледующий</string>
+    <string name="answer">Ответить</string>
+    <string name="finish_test">Завершить тест</string>
+    <string name="finish">Finish</string>
+    <string name="correct_ans_one">Правильный ответ №1</string>
+    <string name="correct_ans_two">Правильный ответ №2</string>
+    <string name="correct_ans_three">Правильный ответ №3</string>
+    <string name="correct_ans_four">Правильный ответ №4</string>
+    <string name="ticket_number">Билет №%d</string>
+    <string name="test_limit_description">У вас есть ровно 25 минут на прохождение теста.</string>
+    <string name="time_is_over">Время истекло</string>
+    <string name="test_is_over">Тест завершен</string>
+    <string name="final_score">У вас %d правильных ответов из %d. Хотите попробовать снова?</string>
+    <string name="question_remain">%d / %d</string>
+    <string name="minutes_remain">Оставшееся время: %s</string>
+    <string name="number_questions">20 вопросов</string>
+    <string name="help">Подсказка</string>
+    <string name="choose_ticket">Выберите билет</string>
+    <string name="leave">Покинуть</string>
+    <string name="leave_test">Покинуть тест?</string>
+    <string name="leave_test_confirm">Вы уверены, что хотите покинуть тест? Текущий результат не будет сохранен.</string>
+    <string name="please_choose_answer">Пожалуйста, выберите сначала ответ.</string>
+    <string name="no_help">Подсказка отсутствует.</string>
+    <string name="help_availability">Подсказка будет доступна только после того, как вы ответите на текущий вопрос.</string>
+</resources>
